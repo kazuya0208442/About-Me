@@ -1,5 +1,10 @@
 // Stylesheet: 1280px以上のモニタで適用
 
+
+.swiper-slide {
+  height: 820px;
+}
+
 .popular {
     &__item {
       flex-basis: 23%;
