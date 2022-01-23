@@ -1336,6 +1336,9 @@ body {
 }
 
 @media (min-width: 1280px) {
+  .swiper-slide {
+    height: 820px;
+  }
   .popular__item {
     -ms-flex-preferred-size: 23%;
         flex-basis: 23%;
