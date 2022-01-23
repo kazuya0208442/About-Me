@@ -1098,7 +1098,7 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between;
   padding: 15px;
-  background-color: rgba(238, 216, 55, 0.3);
+  background-color: rgba(255, 202, 167, 0.21);
   position: relative;
   z-index: 0;
   border-bottom-style: solid;
