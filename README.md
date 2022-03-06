@@ -5,15 +5,27 @@
 - モバイルメニュー  
 - 画像、テキストのアニメーション
 
-## ⚡️ URL
+# ⚡️ URL
 [http://my-profile-alp.site/](http://my-profile-alp.site/)
 
-## :computer: Desktop
+# :computer: Desktop
 ![](https://media.giphy.com/media/9Xdln8SYDKXWOL9Lw9/giphy.gif)
 
-## 📱 Mobile Menu
+# 📱 Mobile Menu
 ![](https://media.giphy.com/media/2rpe9OQqk9kkhsqvhw/giphy.gif)
 
-## 🎨 Infrastructure
+# 🎨 Infrastructure
 ![](https://user-images.githubusercontent.com/87218628/145961659-afda23f2-52c6-4ccb-a036-9a7ac687f1ce.jpg)
 
+
+# なんでエンジニアになろうと思ったの？
+
+# どんなエンジニアになりたい？
+
+# エンジニアとしてキャリアはどう考えてる？
+
+# 強みは？
+
+# 弱みは？
+
+# 学生の時に頑張ったことは？
