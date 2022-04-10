@@ -50,7 +50,7 @@
 
 
 ![IMG_7339](https://user-images.githubusercontent.com/87218628/162598559-5f35e656-2441-4bf8-8ddc-366f42e2e760.JPG)
-強化選手のホームページを参照しています。
+※強化選手のホームページを参照しています。
 
 
 <br>
